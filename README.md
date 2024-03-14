@@ -8,10 +8,7 @@ Apply Clean Architechture for Maintainability, Expadability and Easy-to-debug in
 
 ## Screenshoots
 
-<img src="https://github.com/haitran0508/time_tracker_demo/assets/93150875/a036c0ad-8748-4b59-aa36-7ca63db42807"  width=20% height=20%> <img src="https://github.com/haitran0508/time_tracker_demo/assets/93150875/44d8bf9b-1683-4906-a48e-0bc8e0ebc50d"  width=20% height=20%>
-
-<img width="715" <img width="716" alt="image" src="https://github.com/haitran0508/time_tracker_demo/assets/93150875/44d8bf9b-1683-4906-a48e-0bc8e0ebc50d">
-
+<img src="https://github.com/haitran0508/time_tracker_demo/assets/93150875/a036c0ad-8748-4b59-aa36-7ca63db42807"  width=30% height=30%> <img src="https://github.com/haitran0508/time_tracker_demo/assets/93150875/44d8bf9b-1683-4906-a48e-0bc8e0ebc50d"  width=30% height=30%>
 
 
 ## App Flow
