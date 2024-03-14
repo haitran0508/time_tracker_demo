@@ -1,9 +1,12 @@
 # Welcome to Time Tracker!
 
 Authentication features is available and powered by Google FireBase Authentication.
-Written in Dart and powered by Flutter Framework
-Implement Bloc for state management
-Apply Clean Architechture for Maintainability, Expadability and Easy-to-debug in long-run
+
+Written in Dart and run by Flutter Framework.
+
+Implement Bloc for state management.
+
+Apply Clean Architechture for Maintainability, Expadability and Easy-to-debug in long-run.
 
 
 ## Screenshoots
